@@ -1,6 +1,6 @@
 # Python and AWS: Master Big Data with PySpark and AWS
 
-Disclaimer: The Overall course belongs to AI Sciences not to me, this notes is based on their course.
+Disclaimer: The Overall course belongs to AI Sciences not to me, this notes are based on their course.
 
 The course URL:
 
@@ -27,3 +27,4 @@ Actual Version: 1.0
 To Version 2.0
 
 - Fix the spanish notes.
+- Fix the english.
