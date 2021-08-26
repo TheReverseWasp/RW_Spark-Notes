@@ -1,10 +1,5 @@
 # Python and AWS: Master Big Data with PySpark and AWS
 
-Ended Date: August 17, 2021
-Horas del curso: 17
-Profesor: AISciences
-Tags: AI, AWS, Spark
-
 Disclaimer: The Overall course belongs to AI Sciences not to me, this notes is based on their course.
 
 The course URL:
